@@ -13,7 +13,7 @@ Use tweepy - This is a Python library for accessing twitter's API. Documentation
 Each file is a Bot that scrapes and pulls data using REST or Streaming APIs or performs some preprocessing steps.
 
 ## Dynamic Map demonstration
-Demo for Dynamic Map can be viewed here: http://www.paulowe.com/tweet_map.html
+Here is the [demo](http://www.paulowe.com/tweet_map.html) of the dynamic map visualization
 
 
 
