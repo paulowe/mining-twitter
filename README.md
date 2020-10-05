@@ -10,7 +10,7 @@ You will need to create a twitter developer account [here](https://developer.twi
 Use tweepy - This is a Python library for accessing twitter's API. Documentation can be found here: https://www.tweepy.org
 
 ## Bots
-Each file is a Bot that scrapes and pulls data using REST or Streaming APIs or performs some preprocessing steps.
+Each file is a Bot that pulls data using REST or Streaming APIs and performs some preprocessing steps on the data.
 
 ## Dynamic Map demonstration
 Here is the [demo](http://www.paulowe.com/tweet_map.html) of the dynamic map visualization
